@@ -1,0 +1,16 @@
+th{
+    border:black 1px solid;
+    background-color: darkslaregray ;
+}
+td{
+    border:black 1px solid;
+    background-color: darkslaregray ;
+}
+thead,tbody{
+    border: black 2px solid;
+    background-color: darkslaregray ;
+}
+
+thead{
+    background-color: darkslaregray ;
+}
